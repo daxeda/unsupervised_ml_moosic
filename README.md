@@ -17,5 +17,5 @@ To obtain our main clusters, we first identify relevant features using the Princ
 By repeating the procedue descibed above, we then create 5 subclusters each for our main clusters. In total, we obtained 25 subclusters that we analysis. 
 
 
-The presentation slides discuss the efficacy of our clusters and discusses our take on the questions raised (*see* [presentation slides](https://github.com/daxeda/moosic/blob/main/moosic_group4.pdf)).
+The presentation slides discuss the efficacy of these subclusters and provide our take on the questions asked (*see* [presentation slides](https://github.com/daxeda/moosic/blob/main/moosic_group4.pdf)).
 
