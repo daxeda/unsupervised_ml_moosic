@@ -20,4 +20,4 @@ We repeat the above procedure to create 5 subclusters for each of our main clust
 The presentation slides discuss the efficacy of these subclusters and provide our take on the questions asked (*see* [presentation slides](https://github.com/daxeda/moosic/blob/main/moosic_group4.pdf)).
 
 
-**Note** This project is collaboration between [Philip](https://github.com/silandkyan), [Sumit](https://github.com/sumitdeole) and I.
+**Note:** This project is collaboration between [Philip](https://github.com/silandkyan), [Sumit](https://github.com/sumitdeole) and I.
